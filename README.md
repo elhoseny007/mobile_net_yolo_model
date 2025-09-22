@@ -1,4 +1,4 @@
-# YOLO + MobileNetV2 for Aggression Detection in Videos with 84% accuracy
+# YOLO + MobileNetV2 for Aggression Detection in 12 Videos with 10 sec per vidoes as dataset with 84% accuracy
 
 This project combines **YOLOv8** for person detection with **MobileNetV2** for aggression classification 
 (`aggressive` vs. `non_aggressive`) in video frames.  
